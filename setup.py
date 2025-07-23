@@ -6,7 +6,7 @@ with open("requirements.txt") as f:
 setup(
     name="FinBot",
     version="0.1",
-    author="Sudarsan",
+    author="Sudarsan Parida",
     packages=find_packages(),
     install_requires = requirements,
 )
